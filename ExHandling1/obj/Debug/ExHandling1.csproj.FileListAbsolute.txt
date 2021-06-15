@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab5/ExHandling1/bin/Debug/ExHandling1.exe
+/Users/mac/RiderProjects/Lab5/ExHandling1/bin/Debug/ExHandling1.pdb
+/Users/mac/RiderProjects/Lab5/ExHandling1/obj/Debug/ExHandling1.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab5/ExHandling1/obj/Debug/ExHandling1.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab5/ExHandling1/obj/Debug/ExHandling1.exe
+/Users/mac/RiderProjects/Lab5/ExHandling1/obj/Debug/ExHandling1.pdb

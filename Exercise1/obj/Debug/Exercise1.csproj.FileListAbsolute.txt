@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab5/Exercise1/bin/Debug/Exercise1.exe
+/Users/mac/RiderProjects/Lab5/Exercise1/bin/Debug/Exercise1.pdb
+/Users/mac/RiderProjects/Lab5/Exercise1/obj/Debug/Exercise1.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab5/Exercise1/obj/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab5/Exercise1/obj/Debug/Exercise1.exe
+/Users/mac/RiderProjects/Lab5/Exercise1/obj/Debug/Exercise1.pdb

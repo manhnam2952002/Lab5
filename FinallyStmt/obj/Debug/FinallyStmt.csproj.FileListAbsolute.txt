@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab5/FinallyStmt/bin/Debug/FinallyStmt.exe
+/Users/mac/RiderProjects/Lab5/FinallyStmt/bin/Debug/FinallyStmt.pdb
+/Users/mac/RiderProjects/Lab5/FinallyStmt/obj/Debug/FinallyStmt.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab5/FinallyStmt/obj/Debug/FinallyStmt.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab5/FinallyStmt/obj/Debug/FinallyStmt.exe
+/Users/mac/RiderProjects/Lab5/FinallyStmt/obj/Debug/FinallyStmt.pdb
